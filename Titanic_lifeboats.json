@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "ObjectId",
+    "capacity": 30,
+    "launchTime": "1912-04-15T01:00:00Z",
+    "survivorsCount": 20,
+    "passengers": [
+      {
+        "passenger_id": "ObjectId",
+        "first_name": "John",
+        "last_name": "Doe"
+      },
+      {
+        "passenger_id": "ObjectId",
+        "first_name": "Alice",
+        "last_name": "Johnson"
+      }
+    ]
+  },
+  {
+    "_id": "ObjectId",
+    "capacity": 32,
+    "launchTime": "1912-04-15T01:20:00Z",
+    "survivorsCount": 15,
+    "passengers": [
+      {
+        "passenger_id": "ObjectId",
+        "first_name": "Jane",
+        "last_name": "Smith"
+      }
+    ]
+  },
+  {
+    "_id": "ObjectId",
+    "capacity": 35,
+    "launchTime": "1912-04-15T01:40:00Z",
+    "survivorsCount": 32,
+    "passengers": [
+      {
+        "passenger_id": "ObjectId",
+        "first_name": "Alice",
+        "last_name": "Johnson"
+      }
+    ]
+  }
+]
